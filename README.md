@@ -34,11 +34,11 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/mariusbolik)
 
-## Favorite Books
-
-- **Wallace D. Wattles: The Science Of Getting Rich** ([Free Download](https://ia800805.us.archive.org/31/items/TheScienceOfGettingRich.pdf/the_science_of_getting_rich.pdf))
-- **The Almanack of Naval Ravikant** ([Free Download](https://www.navalmanack.com/))
-- **Tim Ferris: The 4-Hour Workweek** ([Amazon](https://www.amazon.de/-/en/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357))
+### Featured in
+ - German TV Channel "WDR" _[todo: add link]_
+ - German Version of "Shark Tank" _[todo: add link]_
+ - Magazine of largest german Insurance _[todo: add link]_
+ - Award "Top Talents under 25" _[todo: add link]_
 
 ## Connect
 
@@ -46,3 +46,10 @@
 [![LinkedIn](https://img.shields.io/badge/-Marius%20Bolik-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/mariusbolik/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariusbolik/)
 
+---
+
+## Favorite Books
+
+- **Wallace D. Wattles: The Science Of Getting Rich** ([Free Download](https://ia800805.us.archive.org/31/items/TheScienceOfGettingRich.pdf/the_science_of_getting_rich.pdf))
+- **The Almanack of Naval Ravikant** ([Free Download](https://www.navalmanack.com/))
+- **Tim Ferris: The 4-Hour Workweek** ([Amazon](https://www.amazon.de/-/en/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357))
