@@ -20,9 +20,6 @@
 - 📱 **[ClickYourApp](https://clickyourapp.com/)** - Turn any website into a high quality mobile app
 - 🌍 **[CORSPROXY](https://corsproxy.io/)** - Fix/Bypass CORS Errors in seconds
 - ✨ **[LLMBase](https://llmbase.ai/)** - Affordable AI support chat for SaaS
-- 🛡️ **[Request***](https://request***.com/)** - API to identify and block malicious requests (in progress)
-- 🔍 **[req***](https://req***/)** - The fasted and easiest way to debug http requests (in progress)
-- 🌐 **[webb***](https://webb***r.io/)** - Fully managed cloud browser instances for debugging (in progress)
 
 ### Legacy Work
 - 🦶 **[mySHOEFITTER](https://myshoefitter.com/)** - AI bases web app to find perfect shoe size and reduce returns
